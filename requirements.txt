@@ -1,0 +1,7 @@
+python-telegram-bot>=20
+google-genai
+python-dotenv
+httpx
+fastapi
+uvicorn
+python-multipart
